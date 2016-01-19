@@ -25,8 +25,7 @@
       <groupId>com.ixxus.test</groupId>
       <artifactId>my-file-utils</artifactId>
       <version>${project.version}</version>
-    </dependency>
-    
+    </dependency>    
   </dependencies>
     <build>
   	<plugins>
