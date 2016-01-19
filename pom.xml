@@ -24,7 +24,7 @@
     <dependency>
       <groupId>com.ixxus.test</groupId>
       <artifactId>my-file-utils</artifactId>
-      <version>0.0.1</version>
+      <version>${project.version}</version>
     </dependency>
     
   </dependencies>
