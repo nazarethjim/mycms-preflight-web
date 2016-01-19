@@ -3,7 +3,7 @@
 
   <groupId>com.ixxus.test</groupId>
   <artifactId>mycms-preflight-web</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <name>my-file-utils</name>
@@ -41,7 +41,7 @@
 		<connection>scm:git:git@github.com:nazarethjim/mycms-preflight-web.git</connection>
 		<developerConnection>scm:git:git@github.com:nazarethjim/mycms-preflight-web.git</developerConnection>
 		<url>https://github.com/nazarethjim/mycms-preflight-web.git</url>
-    <tag>HEAD</tag>
+    <tag>mycms-preflight-web-0.0.2</tag>
   </scm>
 
 	<distributionManagement>
